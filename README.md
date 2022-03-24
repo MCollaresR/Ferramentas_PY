@@ -1,0 +1,2 @@
+# Analises_de_Bases_pandas_openCv
+Analises_de_Bases_pandas_openCv
